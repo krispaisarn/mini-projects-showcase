@@ -22,7 +22,7 @@
 
 ## 03. AR - Image Tracking
 [![AR](https://github.com/krispaisarn/mini-projects-showcase/blob/main/ProjectBuilds/03_AR_ImageTracking/AR_ImageTracking.gif)](https://github.com/krispaisarn/mini-projects-showcase/blob/main/ProjectBuilds/03_AR_ImageTracking/AR_ImageTracking.mov)
-> Scene : FundamentalFileSystem
+> Scene : ImageTrackingAR
 ##### AR app with Image Tracking + object motion
 #### Download
 *  [ImageTrackingAR(.apk)](https://github.com/krispaisarn/mini-projects-showcase/blob/main/ProjectBuilds/03_AR_ImageTracking/ImageTracking.apk)
