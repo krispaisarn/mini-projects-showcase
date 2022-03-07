@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Scenes/SnakeGame.unity
+    guid: 427a8cfd4c1cd62439070192ccf050b5
+  - enabled: 0
     path: Assets/Scenes/FundamentalFileSystem.unity
     guid: e2c76cc1d2ce84b749a9e8f2d3cdf1e5
+  - enabled: 1
+    path: Assets/Scenes/ImageTrackingAR.unity
+    guid: 6bdce89659816455b9f906fc62d19910
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
